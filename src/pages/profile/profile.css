@@ -1,0 +1,13 @@
+.profile {
+  display: flex;
+  width: 100%;
+  max-width: 1440px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.profileRight {
+  width: 100%;
+}
+.profileRightBottom {
+  display: flex;
+}
